@@ -1,0 +1,81 @@
+.each-job-list {
+  margin-bottom: 20px;
+  width: 90%;
+  padding: 15px;
+  background-color: #272727;
+  border-radius: 20px;
+}
+
+.job-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.company-logo {
+  margin-right: 8px;
+  height: 100px;
+}
+
+.company-title {
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.company-rating {
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 15px;
+}
+
+.star-icon {
+  color: gold;
+}
+
+.job-loc {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.job-loc1 {
+  display: flex;
+  align-items: center;
+}
+
+.loc-icon {
+  color: #ffffff;
+  height: 15px;
+  margin-right: 5px;
+}
+
+.loc-name {
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 15px;
+  margin-right: 10px;
+}
+
+.ctc {
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.job-sub-heading {
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.job-description {
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 15px;
+  font-weight: 300;
+}
